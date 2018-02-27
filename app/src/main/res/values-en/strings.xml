@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="art">arti</string>
-    <string name="txt_ver">Verano</string>
+    <string name="app_name">JuanRiascosTallerUno</string>
+    <string name="txt_art">Artist</string>
+    <string name="txt_ver">Summer</string>
+    <string name="item1_name">Priosioner of your eyes</string>
+    <string name="item1_artist">JUDAS PRIEST</string>
 </resources>
